@@ -1,6 +1,6 @@
 # LinkedIn Launch Post
 
-Here is the finalized launch post copy for ChargerOS 🔥, featuring your personal background story and conversational tone.
+Here is the finalized launch post copy for ChargerOS 🔥, balancing your personal backstory and humorous tone with a polished, professional structure.
 
 ## Recommended Image Order
 
@@ -16,7 +16,7 @@ Here is the finalized launch post copy for ChargerOS 🔥, featuring your person
 
 I built ChargerOS 🔥, a full desktop operating system simulation running entirely in the browser. 🖥️
 
-Coming from a data science background, I never actually had an OS lab in college. But one day, I decided I just wanted to build an operating system from scratch. What started as a fun experiment turned into this.
+Coming from a data science background, I never had an OS lab, only the theory class. I'm pretty sure my data science classmates will remember that OS endsem exam, which was a nightmare for real. But the things we do to stand out in the job market lol. What started as a fun experiment turned into this.
 
 Most browser OS projects are just iframes in a trench coat. I wanted to build something different.
 
@@ -29,6 +29,12 @@ The biggest thing I learned is that once you build a desktop environment, every 
 Stack: React 19, TypeScript 5.9, Vite 7, Tailwind CSS, Lucide React, localStorage.
 
 Code: https://github.com/Flamechargerr/ChargerOS
+
+What you see in the screenshots:
+1. The custom login screen that handles guest access.
+2. The desktop shell showing custom wallpapers.
+3. Fully playable Chess running as a native React window.
+4. Multitasking in action with Terminal, System Monitor, and Weather.
 
 What feature would you build into a browser OS next? 👇
 
