@@ -1,6 +1,6 @@
 # LinkedIn Launch Post
 
-Here is the finalized launch post copy for ChargerOS 🔥, refined to be highly conversational, free of dashes, and sound fully human.
+Here is the finalized launch post copy for ChargerOS 🔥, featuring your personal background story and conversational tone.
 
 ## Recommended Image Order
 
@@ -15,6 +15,8 @@ Here is the finalized launch post copy for ChargerOS 🔥, refined to be highly 
 ## Post Copy
 
 I built ChargerOS 🔥, a full desktop operating system simulation running entirely in the browser. 🖥️
+
+Coming from a data science background, I never actually had an OS lab in college. But one day, I decided I just wanted to build an operating system from scratch. What started as a fun experiment turned into this.
 
 Most browser OS projects are just iframes in a trench coat. I wanted to build something different.
 
