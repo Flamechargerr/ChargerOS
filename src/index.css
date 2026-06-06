@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 12%;
+    --foreground: 0 0% 80%;
+    --card: 0 0% 12%;
+    --card-foreground: 0 0% 80%;
+    --popover: 0 0% 12%;
+    --popover-foreground: 0 0% 80%;
+    --primary: 210 100% 64%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 0% 18%;
+    --secondary-foreground: 0 0% 80%;
+    --muted: 0 0% 18%;
+    --muted-foreground: 0 0% 52%;
+    --accent: 0 0% 18%;
+    --accent-foreground: 0 0% 80%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 210 100% 64%;
+    --radius: 0.5rem;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+}
+
+/* Custom scrollbar */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: #1e1e1e;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 4px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #666;
+}
+
+/* Range input styling */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  background: #333;
+  border-radius: 2px;
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #4a9eff;
+  cursor: pointer;
+}
+
+/* Canvas styling */
+canvas {
+  image-rendering: auto;
+}
+
+/* Content editable */
+[contenteditable] {
+  outline: none;
+}
+[contenteditable]:empty:before {
+  content: attr(placeholder);
+  color: #666;
+}
