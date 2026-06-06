@@ -1,4 +1,4 @@
-# ChargerOS
+# ChargerOS 🔥
 
 <p align="center">
   <img src="media/screenshots/10-multitasking.png" alt="ChargerOS Desktop" width="100%" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.1);" />
@@ -14,17 +14,17 @@
 
 ---
 
-ChargerOS is an Ubuntu-inspired web desktop operating system simulation built by **Flamechargerr**. It recreates a Linux desktop environment inside the browser. It is built using modern frontend engineering practices and includes a login screen, wallpaper customizer, top panel, taskbar, search-enabled app launcher, draggable window manager, local persistence, a virtual filesystem, a simulated terminal, and a suite of **59 built-in applications**.
+ChargerOS 🔥 is an interactive browser desktop operating system simulation built by **Flamechargerr**. It recreates a rich desktop environment inside the browser. It is built using modern frontend engineering practices and includes a login screen, wallpaper customizer, top panel, taskbar, search-enabled app launcher, draggable window manager, local persistence, a virtual filesystem, a simulated terminal, and a suite of **59 built-in applications**.
 
 > [!NOTE]
-> ChargerOS is a client-side web application and operating system simulation. It is not a bootable Linux distribution, custom kernel, or ISO file.
+> ChargerOS 🔥 is a client-side web application and operating system simulation. It is not a bootable distribution, custom kernel, or ISO file.
 
 ---
 
 ## 🚀 Key Features
 
 * **🎛️ Draggable Window Manager**: Support for dragging, resizable dimensions, minimize, maximize, restore, close, and dynamic z-index focus ordering.
-* **📂 Virtual Unix Filesystem**: Simulated file system with directories like `/home`, `/etc`, `/usr`, `/var`, `/tmp`. All files, folders, and custom configurations are persisted using browser `localStorage`.
+* **📂 Virtual Unix-style Filesystem**: Simulated file system with directories like `/home`, `/etc`, `/usr`, `/var`, `/tmp`. All files, folders, and custom configurations are persisted using browser `localStorage`.
 * **📟 Interactive Terminal**: Run standard commands like `ls`, `cd`, `pwd`, `mkdir`, `touch`, `cat`, `rm`, `neofetch`, `cowsay`, `fortune`, `tree`, `history`, and `help`.
 * **🧩 59-App Suite**: Fully registered frontend apps grouped into 8 categories—ranging from a code editor and database viewer to playable retro games.
 * **🖥️ Desktop Shell**: Contextual menus, dynamic top panel widgets (clock, open window indicators, settings drawer), taskbar shortcuts, and trash folder.
@@ -42,7 +42,7 @@ ChargerOS is an Ubuntu-inspired web desktop operating system simulation built by
 
 ## ⚙️ Technical Architecture
 
-ChargerOS uses a modular provider-consumer architecture to keep the OS shell decoupled from individual app modules.
+ChargerOS 🔥 uses a modular provider-consumer architecture to keep the OS shell decoupled from individual app modules.
 
 ```mermaid
 graph TD
@@ -70,7 +70,7 @@ Manages the OS window state: which windows are open, their position coordinates,
 
 ## 📦 App Suite Directory
 
-ChargerOS includes **59 custom apps** organized into functional categories:
+ChargerOS 🔥 includes **59 custom apps** organized into functional categories:
 
 | Category | Apps Included |
 | --- | --- |

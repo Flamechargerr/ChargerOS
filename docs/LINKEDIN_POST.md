@@ -1,6 +1,6 @@
 # LinkedIn Launch Post
 
-Here is the optimized launch post copy for ChargerOS, structured to maximize engagement on LinkedIn and showcase the technical complexity of your project.
+Here is the optimized launch post copy for ChargerOS, focusing exclusively on ChargerOS 🔥 and removing all Ubuntu references.
 
 ## Recommended Image Order
 
@@ -14,15 +14,15 @@ Here is the optimized launch post copy for ChargerOS, structured to maximize eng
 
 ## Post Copy
 
-🚀 **I built ChargerOS: An Ubuntu-inspired Browser Desktop Simulation!** 🖥️✨
+🚀 **I built ChargerOS 🔥: A Browser Desktop OS Simulation!** 🖥️✨
 
-I’ve always been fascinated by operating systems and how they manage complex workflows, windows, and state. To challenge myself as a frontend engineer, I built **ChargerOS**—a fully interactive simulation of the Ubuntu desktop environment, running entirely in the browser.
+I’ve always been fascinated by operating systems and how they manage complex workflows, windows, and state. To challenge myself as a frontend engineer, I built **ChargerOS 🔥**—a fully interactive simulation of a desktop environment, running entirely in the browser.
 
 What started as a simple experiment quickly grew into a robust system design project. Here is a breakdown of what I built:
 
 🔹 **Draggable & Resizable Window Manager**: Custom Z-index stacking focus, active indicators, and drag-and-drop boundary management.
 🔹 **Virtual Unix-style Filesystem**: Mocked directories like `/home`, `/etc`, `/usr`, and `/var` persisted through browser `localStorage`.
-🔹 **Linux Terminal**: A fully functional command line simulation with 16+ native commands (like `ls`, `cd`, `pwd`, `neofetch`, `tree`, `cowsay`, and shell history).
+🔹 **Linux-style Terminal**: A fully functional command line simulation with 16+ native commands (like `ls`, `cd`, `pwd`, `neofetch`, `tree`, `cowsay`, and shell history).
 🔹 **59-App Suite**: Across System, Development, Games, Media, Graphics, Office, Utilities, and Internet. Play Chess, write text documents, run calculations, draw in Paint, or mock API queries!
 🔹 **Polished Desktop Shell**: Features a top panel with real-time indicators, customizable wallpaper settings, taskbar dock, and mouse context menus.
 
@@ -40,16 +40,16 @@ Building a browser-based OS environment means every micro-interaction becomes a 
 👇 **Check out the code and run it yourself**:
 GitHub Repository: https://github.com/Flamechargerr/ChargerOS
 
-I’d love to get feedback from fellow developers, Linux enthusiasts, and open-source advocates. What app or feature should I build next?
+I’d love to get feedback from fellow developers and open-source advocates. What app or feature should I build next?
 
-#ReactJS #TypeScript #TailwindCSS #Vite #WebDevelopment #SystemDesign #PortfolioProject #Linux #OpenSource #Ubuntu #Frontend
+#ReactJS #TypeScript #TailwindCSS #Vite #WebDevelopment #SystemDesign #PortfolioProject #OpenSource #ChargerOS #Frontend
 
 ---
 
 ## Carousel Captions (Alternative Carousel PDF Post)
 
-- **Slide 1:** ChargerOS - Ubuntu-inspired browser desktop environment. Built with React 19 & TypeScript.
-- **Slide 2:** Login Screen: Fully customized Ubuntu login panel supporting guest access.
+- **Slide 1:** ChargerOS 🔥 - browser desktop environment. Built with React 19 & TypeScript.
+- **Slide 2:** Login Screen: Fully customized login panel supporting guest access.
 - **Slide 3:** Desktop Shell: Features indicators, customizable wallpaper, taskbar, and desktop context menus.
 - **Slide 4:** 59-App Suite: Desktop-grade apps from Development IDE to Chess and Media Players.
 - **Slide 5:** Terminal & Virtual VFS: Runs `neofetch`, `ls`, `cd`, `tree` using a localStorage-persisted virtual filesystem.

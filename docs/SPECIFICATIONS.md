@@ -2,11 +2,11 @@
 
 ## Project Identity
 
-- **Name:** ChargerOS
+- **Name:** ChargerOS 🔥
 - **Creator:** Flamechargerr
-- **Project type:** Ubuntu-inspired browser desktop OS simulation
+- **Project type:** Browser desktop OS simulation
 - **Base chosen:** v2 archive, because it has the stronger shell and 59 registered apps
-- **Positioning:** Web-based Linux desktop environment, not a bootable Ubuntu ISO
+- **Positioning:** Web-based desktop simulation, not a bootable operating system
 
 ## Core Specs
 
@@ -20,7 +20,7 @@
 
 ## App Suite
 
-ChargerOS currently registers **59 apps** across 8 categories:
+ChargerOS 🔥 currently registers **59 apps** across 8 categories:
 
 - **System:** Files, Terminal, Settings, Calculator, Text Editor, Calendar, Clock, System Monitor, Disk Usage, Backup
 - **Internet:** Browser, Email, Chat, Weather, RSS Reader, FTP Client, Remote Desktop
@@ -51,7 +51,7 @@ ChargerOS currently registers **59 apps** across 8 categories:
 
 ## Virtual Filesystem
 
-- Simulated Unix-like tree: `/home`, `/etc`, `/tmp`, `/var`, `/usr`
+- Simulated directory tree: `/home`, `/etc`, `/tmp`, `/var`, `/usr`
 - Browser-persisted file data
 - File read/write/delete/create folder operations
 - Rename and move operations

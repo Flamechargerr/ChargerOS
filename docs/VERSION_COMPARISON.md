@@ -8,7 +8,7 @@ Archive: `Kimi_Agent_✅Web Linux .zip`
 
 Strengths:
 
-- Boot sequence and fuller OS startup feel
+- Boot sequence and fuller operating system startup feel
 - Dock, top panel, notification center, app launcher, window manager
 - 54 registered apps
 - Larger individual app implementations in several areas
@@ -51,4 +51,4 @@ Borrow the stronger narrative from both versions:
 
 Public framing:
 
-> ChargerOS is an Ubuntu-inspired browser desktop environment with a custom desktop shell, virtual filesystem, terminal, window manager, and 59 built-in apps.
+> ChargerOS is an interactive browser desktop environment with a custom desktop shell, virtual filesystem, terminal, window manager, and 59 built-in apps.
